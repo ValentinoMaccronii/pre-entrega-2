@@ -86,3 +86,16 @@
         transform: translateX(0%);
     }
 }
+
+/* productos productos  productos productos productos productos productos productos */
+/* productos productos  productos productos productos productos productos productos */
+
+.fondo2{
+    background-color: #000;
+}
+
+.fondodelmainproductos{
+    background-image: url(./sets/img/starlink9.jpg);
+    background-size: cover;
+}
+
