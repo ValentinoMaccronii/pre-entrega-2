@@ -147,7 +147,6 @@
 .fondo3 {
     background-image: url(./sets/img/destacada-Llega-Starlink-a-Argentina-que-es-y-como-funciona-ZUMA-Press-picture-alliance.jpg);
     background-size: cover;
-    position: fixed;
 }
 
 .h1sobrenosotros {
@@ -173,4 +172,18 @@
     color: #000000;
     text-align: center;
 }
+
+.footerindexsobre{
+    margin-top: 20px;
+}
+
+/* contactanos contactanos contactanos contactanos contactanos contactanos contactanos */
+/* contactanos contactanos contactanos contactanos contactanos contactanos contactanos */
+
+.divcontactanos{
+    padding-bottom: 75px;
+}
+
+/* media media media media media mediamediavmedia media media media */
+
 
